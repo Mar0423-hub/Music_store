@@ -1,0 +1,17 @@
+cat >> .gitignore << 'EOF'
+
+# TeamCity large files
+teamcity/
+*.nupkg
+*.zip
+*.jar
+
+# Large binary files
+*.exe
+*.dll
+*.pdb
+*.bin
+EOF
+
+# Добавьте .gitignore в коммит
+git add .gitignore
