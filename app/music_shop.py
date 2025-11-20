@@ -584,6 +584,15 @@ class MusicShopGUI:
         )
         welcome_label.pack(pady=5)
     
+        # Информация о версии (НОВОЕ ИЗМЕНЕНИЕ)
+        version_label = tk.Label(
+            root,
+            text="Версия 1.2.0 | © 2024 Музыкальный магазин",
+            font=('Arial', 8),
+            fg='gray'
+        )
+        version_label.pack(pady=5)
+    
         # Создание вкладок
         notebook = ttk.Notebook(self.root)
         
