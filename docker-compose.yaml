@@ -1,7 +1,6 @@
 version: '3.8'
 
 services:
-  # Основное приложение музыкального магазина
   music-shop:
     build: .
     container_name: music-shop-app
@@ -12,12 +11,13 @@ services:
       - /tmp/.X11-unix:/tmp/.X11-unix
       - ./data:/app/data
       - ./logs:/app/logs
-    network_mode: host
+    network_mode: bridge  # ← ИЗМЕНИТЬ с host на bridge
     restart: unless-stopped
     stdin_open: true
     tty: true
+    depends_on:  # ← ДОБАВИТЬ зависимости
+      - redis
 
-  # Сторонний сервис - Redis для кэширования
   redis:
     image: redis:7-alpine
     container_name: music-shop-redis
@@ -29,10 +29,11 @@ services:
     command: redis-server /usr/local/etc/redis/redis.conf
     restart: unless-stopped
 
-  # Дополнительный сервис - Adminer для управления БД
   adminer:
     image: adminer:4.8.1
     container_name: music-shop-adminer
     ports:
       - "8080:8080"
     restart: unless-stopped
+    depends_on:
+      - redis

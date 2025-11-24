@@ -31,7 +31,7 @@ class Database:
         """Настройка подключения к Redis"""
         try:
             redis_client = redis.Redis(
-                host='redis-cache',  # Имя сервиса из docker-compose
+                host='redis',  # Имя сервиса из docker-compose
                 port=6379,
                 decode_responses=True,
                 socket_connect_timeout=5,
@@ -586,8 +586,8 @@ class MusicShopGUI:
     
         # Информация о версии (НОВОЕ ИЗМЕНЕНИЕ)
         version_label = tk.Label(
-            root,
-            text="Версия 1.2.0 | © 2024 Музыкальный магазин",
+            self.root,
+            text="Версия 1.2.2 | © 2025 Музыкальный магазин",
             font=('Arial', 8),
             fg='gray'
         )
