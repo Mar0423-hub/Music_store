@@ -10,3 +10,339 @@
 2025-11-17 19:26:12,647 - Database - INFO - База данных успешно инициализирована
 2025-11-17 19:27:01,840 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
 2025-11-17 19:27:01,841 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:36:22,735 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:36:22,736 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:36:53,102 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:36:53,102 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:37:23,463 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:37:23,464 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:37:53,813 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:37:53,813 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:38:24,168 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:38:24,169 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:38:54,518 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:38:54,518 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:39:24,872 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:39:24,872 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:39:55,221 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:39:55,222 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:40:25,577 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:40:25,577 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:40:55,919 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:40:55,920 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:41:26,275 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:41:26,275 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:41:56,617 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:41:56,618 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:42:26,962 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:42:26,962 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:42:57,310 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:42:57,311 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:43:27,895 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:43:27,895 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:43:58,248 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:43:58,249 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:44:28,602 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:44:28,603 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:44:58,962 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:44:58,963 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:45:29,317 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:45:29,318 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:45:59,666 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:45:59,667 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:46:30,030 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:46:30,030 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:47:00,379 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:47:00,380 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:47:30,752 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:47:30,753 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:48:01,107 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:48:01,108 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:48:31,461 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:48:31,462 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:49:01,819 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:49:01,820 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:49:32,158 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:49:32,159 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:50:02,524 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:50:02,525 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:50:33,104 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:50:33,105 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:56:34,734 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:56:34,734 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:57:05,092 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:57:05,092 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:57:35,457 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:57:35,458 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:58:05,810 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:58:05,810 - Database - INFO - База данных успешно инициализирована
+2025-11-23 23:59:53,990 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-23 23:59:53,991 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:00:24,357 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:00:24,358 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:00:54,711 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:00:54,712 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:01:25,077 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:01:25,078 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:01:55,427 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:01:55,428 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:02:49,604 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:02:49,604 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:03:19,955 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:03:19,955 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:03:50,306 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:03:50,306 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:04:20,668 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:04:20,668 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:04:51,019 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:04:51,019 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:05:21,371 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:05:21,371 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:05:51,725 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:05:51,725 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:06:22,071 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:06:22,071 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:06:52,428 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:06:52,429 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:07:22,781 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:07:22,782 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:07:53,132 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:07:53,133 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:08:23,714 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:08:23,715 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:08:54,064 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:08:54,065 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:09:24,422 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:09:24,422 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:09:54,767 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:09:54,767 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:10:25,117 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:10:25,118 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:10:55,480 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:10:55,480 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:11:25,841 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:11:25,842 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:11:56,216 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:11:56,217 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:12:26,582 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:12:26,583 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:12:56,946 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:12:56,947 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:13:27,303 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:13:27,303 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:13:57,660 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:13:57,661 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:14:28,006 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:14:28,007 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:14:58,369 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:14:58,370 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:15:28,926 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:15:28,927 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:15:59,270 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:15:59,270 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:16:29,630 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:16:29,631 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:17:00,001 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:17:00,002 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:17:30,359 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:17:30,360 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:18:00,721 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:18:00,722 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:18:31,078 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:18:31,078 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:24:34,413 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:24:34,413 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:33:46,053 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:33:46,053 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:34:47,758 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:34:47,758 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:35:18,124 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:35:18,124 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:35:48,474 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:35:48,474 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:44:03,962 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:44:03,963 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:44:34,318 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:44:34,319 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:45:04,682 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:45:04,682 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:45:35,041 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:45:35,041 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:46:05,394 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:46:05,394 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:46:35,743 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:46:35,744 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:47:06,099 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:47:06,099 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:47:36,492 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:47:36,492 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:48:06,846 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:48:06,846 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:48:37,192 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:48:37,193 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:49:07,549 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:49:07,549 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:49:37,942 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:49:37,942 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:50:08,532 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:50:08,533 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:50:38,889 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:50:38,889 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:51:09,250 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:51:09,250 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:51:39,621 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:51:39,621 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:52:09,979 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:52:09,980 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:52:40,343 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:52:40,344 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:53:10,701 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:53:10,702 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:53:41,048 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:53:41,049 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:54:11,410 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:54:11,411 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:54:53,402 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:54:53,403 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:55:23,796 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:55:23,797 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:55:54,146 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:55:54,146 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:56:24,497 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:56:24,497 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:56:54,850 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:56:54,850 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:57:25,206 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:57:25,206 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:57:55,563 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:57:55,564 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:58:25,922 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:58:25,922 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:58:56,280 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:58:56,281 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:59:26,637 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:59:26,638 - Database - INFO - База данных успешно инициализирована
+2025-11-24 00:59:56,990 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 00:59:56,990 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:00:27,346 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:00:27,347 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:00:57,698 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:00:57,699 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:01:28,266 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:01:28,267 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:01:58,621 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:01:58,622 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:02:28,981 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:02:28,982 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:02:59,335 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:02:59,336 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:03:29,691 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:03:29,691 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:04:00,048 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:04:00,048 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:04:30,410 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:04:30,410 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:05:00,765 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:05:00,765 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:05:31,133 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:05:31,133 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:06:01,488 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:06:01,488 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:06:31,853 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:06:31,853 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:07:02,202 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:07:02,202 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:07:32,550 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:07:32,551 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:08:02,909 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:08:02,910 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:08:33,481 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:08:33,482 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:09:03,834 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:09:03,835 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:09:34,191 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:09:34,192 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:10:04,542 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:10:04,543 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:10:34,903 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:10:34,903 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:11:05,259 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:11:05,260 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:11:35,620 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:11:35,620 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:12:05,993 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:12:05,994 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:12:36,352 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:12:36,353 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:13:06,710 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:13:06,711 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:13:37,065 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:13:37,066 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:14:07,417 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:14:07,417 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:14:37,769 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:14:37,769 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:15:08,126 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:15:08,126 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:15:38,694 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:15:38,694 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:16:09,043 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:16:09,043 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:16:39,400 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:16:39,400 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:17:09,756 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:17:09,757 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:17:40,110 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:17:40,111 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:18:10,453 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:18:10,454 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:18:40,806 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:18:40,806 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:19:11,163 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:19:11,164 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:19:41,531 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:19:41,531 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:20:11,886 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:20:11,887 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:20:42,241 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:20:42,242 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:21:12,592 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:21:12,593 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:22:35,477 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:22:35,477 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:24:19,305 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:24:19,306 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:24:49,673 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:24:49,673 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:25:20,029 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:25:20,030 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:25:50,396 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:25:50,397 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:26:20,787 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:26:20,788 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:26:51,359 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:26:51,360 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:27:21,713 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:27:21,714 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:27:52,076 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:27:52,076 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:28:22,436 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:28:22,437 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:28:52,793 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:28:52,793 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:29:23,144 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:29:23,145 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:29:53,513 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:29:53,513 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:30:23,886 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:30:23,886 - Database - INFO - База данных успешно инициализирована
+2025-11-24 01:30:54,239 - Database - WARNING - Redis недоступен: Error -3 connecting to redis-cache:6379. Temporary failure in name resolution.. Работаем без кэширования.
+2025-11-24 01:30:54,240 - Database - INFO - База данных успешно инициализирована
+2025-11-24 02:05:57,059 - Database - WARNING - Redis недоступен: Error -2 connecting to redis:6379. Name or service not known.. Работаем без кэширования.
+2025-11-24 02:05:57,060 - Database - INFO - База данных успешно инициализирована
+2025-11-24 14:15:57,821 - Database - WARNING - Redis недоступен: Error -2 connecting to redis:6379. Name or service not known.. Работаем без кэширования.
+2025-11-24 14:15:57,824 - Database - INFO - База данных успешно инициализирована
+2025-11-24 17:58:09,811 - Database - WARNING - Redis недоступен: Error -2 connecting to redis:6379. Name or service not known.. Работаем без кэширования.
+2025-11-24 17:58:09,811 - Database - INFO - База данных успешно инициализирована
+2025-11-24 17:59:10,895 - Database - WARNING - Redis недоступен: Error -2 connecting to redis:6379. Name or service not known.. Работаем без кэширования.
+2025-11-24 17:59:10,895 - Database - INFO - База данных успешно инициализирована

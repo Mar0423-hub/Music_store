@@ -1,0 +1,17 @@
+services:
+  teamcity-agent:
+    image: jetbrains/teamcity-agent:latest
+    container_name: teamcity-agent-test
+    environment:
+      - SERVER_URL=http://localhost:8111  # ← ИЗМЕНИТЬ на localhost
+    user: "0:0"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /usr/bin/docker:/usr/bin/docker  # ← ДОБАВИТЬ
+    restart: unless-stopped
+    networks:
+      - teamcity-network
+
+networks:
+  teamcity-network:
+    driver: bridge
