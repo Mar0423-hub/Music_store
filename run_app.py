@@ -13,7 +13,7 @@ def wait_for_redis(max_retries=30, delay=1):
                 r = redis.Redis(
                     host='redis',
                     port=6379,
-                    password='music_shop_2024',
+                    password=None,
                     decode_responses=True
                 )
                 r.ping()
@@ -46,4 +46,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
